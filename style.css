@@ -1,0 +1,16 @@
+#popup_converter8255 {
+    background-color: #FFF;
+    width: 170px;
+    height: 90px;
+    color: #8f9cb5;
+    font-size: 18px;
+    display: inline-block;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border: 3px solid;
+    border-color: #9AD3DE;
+    border-radius: 5px;
+    display: none;
+  }
